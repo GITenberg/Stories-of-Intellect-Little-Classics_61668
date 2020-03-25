@@ -1,5 +1,8 @@
 _repo: Stories-of-Intellect-Little-Classics_61668
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61668-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hawthorne, Nathaniel
@@ -63,6 +66,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3308
     wikipedia: https://en.wikipedia.org/wiki/Rossiter_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61668#Stories-of-Intellect-Little-Classics
 gutenberg_issued: '2020-03-24'
 gutenberg_type: Text
 identifiers:
