@@ -1,0 +1,79 @@
+_repo: Stories-of-Intellect-Little-Classics_61668
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+  - agent_name: Lytton, E. Bulwer
+    gutenberg_agent_id: '51552'
+    url: http://www.gutenberg.org/2009/agents/51552
+  - agent_name: Davis, Rebecca Harding
+    alias: Davis, R. H. (Rebecca Harding)
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '186'
+    url: http://www.gutenberg.org/2009/agents/186
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_Harding_Davis
+  - agent_name: De Quincey, Thomas
+    aliases:
+    - Quincey, Thomas de
+    - Kvinsi, Tomas de
+    - Quincy, Thomas de
+    - DeQuincey, Thomas
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+  - agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+  - agent_name: Spofford, Harriet Elizabeth Prescott
+    aliases:
+    - Prescott, Harriet Elizabeth
+    - Spofford, Harriet Prescott
+    birthdate: 1835
+    deathdate: 1921
+    gutenberg_agent_id: '6312'
+    url: http://www.gutenberg.org/2009/agents/6312
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Elizabeth_Prescott_Spofford
+  editor:
+    agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+    wikipedia: https://en.wikipedia.org/wiki/Rossiter_Johnson
+description: ''
+gutenberg_issued: '2020-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Stories of Intellect
+
+  Little Classics'
+url: http://www.gutenberg.org/ebooks/61668
